@@ -274,7 +274,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
-from pdm import compute_pioneer_weights_angles
+# from pdm import compute_pioneer_weights_angles
 
 
 # ============================================================
